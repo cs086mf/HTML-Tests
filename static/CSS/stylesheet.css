@@ -1,0 +1,21 @@
+.class {
+  width: 40%;
+}
+
+
+a {
+  color: red;
+text-decoration: none;
+}
+
+a:hover {
+  color: darkred;
+text-decoration: underline;
+}
+.vid1 {
+border: solid;
+border-style: dashed;
+margin-left: 50%;
+margin-right: 50%;
+
+}
