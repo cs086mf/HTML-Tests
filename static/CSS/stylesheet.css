@@ -1,13 +1,7 @@
 .class {
-  width: 90%;
-  height: 60%;
+  width: 40%;
 }
 
-p {
-  border: solid;
-  padding: 50px;
-  font-family:'Comic Sans MS'
-}
 
 a {
   color: red;
@@ -17,4 +11,11 @@ text-decoration: none;
 a:hover {
   color: darkred;
 text-decoration: underline;
+}
+.vid1 {
+border: solid;
+border-style: dashed;
+margin-left: 50%;
+margin-right: 50%;
+
 }
